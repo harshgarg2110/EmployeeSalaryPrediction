@@ -60,5 +60,12 @@ Organizations and HR teams can use this app to:
 git clone https://github.com/harshgarg2110/employee-salary-prediction.git
 cd employee-salary-prediction
 
+## 🏗️ Local Setup Instructions
+
+### 1. Install Dependencies
+```bash
+pip install -r requirements.txt
+
+
 
 
